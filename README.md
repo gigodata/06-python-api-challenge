@@ -1,1 +1,1 @@
-# 06_World_Weather_Analysis
+# 06-world-weather-analysis
