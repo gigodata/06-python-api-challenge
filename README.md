@@ -20,5 +20,5 @@
 # Some source code was contained in the exercise files provided.
 # I completed this exercise mostly alone; two tutors helped with the final part. AI was helpful in troubleshooting erroneous code.
 
-# Last updated: 2023-10-17
+# Last updated: 2023-10-27
 # Version: 1.0
