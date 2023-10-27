@@ -1,7 +1,7 @@
 # MSU Data Analytics Bootcamp
-# Homework - Module 05
+# Homework - Module 06
 
-# README for Pandas challenge
+# README for Python API and charting challenge
 
 # Created: 2023-10-17
 # Author: Adrian Santos
